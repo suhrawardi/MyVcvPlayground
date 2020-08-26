@@ -1,0 +1,25 @@
+{
+  "slug": "AComparator",
+  "name": "AComparator",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "brand": "A",
+  "author": "Suhrawardi",
+  "authorEmail": "suhrawardi@gmail.com",
+  "authorUrl": "https://jarra.nl",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "AComparator",
+      "name": "AComparator",
+      "description": "Acomparator module",
+          "tags": [
+            "AComparator"
+          ]
+    }
+  ]
+}
