@@ -1,9 +1,9 @@
 {
-  "slug": "AComparator",
-  "name": "AComparator",
+  "slug": "Mine",
+  "name": "Mine",
   "version": "1.0.0",
   "license": "proprietary",
-  "brand": "A",
+  "brand": "Mine",
   "author": "Suhrawardi",
   "authorEmail": "suhrawardi@gmail.com",
   "authorUrl": "https://jarra.nl",
@@ -14,11 +14,11 @@
   "changelogUrl": "",
   "modules": [
     {
-      "slug": "AComparator",
-      "name": "AComparator",
-      "description": "Acomparator module",
+      "slug": "MyComparator",
+      "name": "MyComparator",
+      "description": "MyComparator module",
           "tags": [
-            "AComparator"
+            "MyComparator"
           ]
     }
   ]
